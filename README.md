@@ -1,0 +1,2 @@
+# Tecni
+Git clone
